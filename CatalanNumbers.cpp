@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int catalan_binary_trees(int n)
 {
     int *c = (int*) malloc(n);
