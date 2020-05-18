@@ -21,6 +21,3 @@ class Solution(object):
         		else:
         			right -= 1
         return  [list(t) for t in set(tuple(element) for element in result)]
-
-# Space: O(1)
-# Time: O(N^2)
