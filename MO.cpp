@@ -52,7 +52,6 @@ void queryResults(int a[], int n, Query q[], int m)
             currR--; 
         } 
   
-        // Print sum of current range 
         cout << "Sum of [" << L << ", " << R 
              << "] is "  << currSum << endl; 
     } 
